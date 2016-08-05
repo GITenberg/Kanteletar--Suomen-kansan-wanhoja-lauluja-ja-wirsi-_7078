@@ -1,0 +1,26 @@
+_repo: Kanteletar--Suomen-kansan-wanhoja-lauluja-ja-wirsi-_7078
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Lönnrot, Elias
+    alias: Lonnrot, Elias
+    birthdate: 1802
+    deathdate: 1884
+    gutenberg_agent_id: '4153'
+    url: http://www.gutenberg.org/2009/agents/4153
+    wikipedia: http://en.wikipedia.org/wiki/Elias_Lönnrot
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7078'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk songs, Finnish'
+- !lcc 'PH'
+- GITenberg
+title: 'Kanteletar: Suomen kansan wanhoja lauluja ja wirsiä'
+url: http://www.gutenberg.org/ebooks/7078
