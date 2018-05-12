@@ -1,5 +1,5 @@
 _repo: Kanteletar--Suomen-kansan-wanhoja-lauluja-ja-wirsi-_7078
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Lönnrot, Elias
@@ -9,7 +9,12 @@ contributor:
     gutenberg_agent_id: '4153'
     url: http://www.gutenberg.org/2009/agents/4153
     wikipedia: http://en.wikipedia.org/wiki/Elias_Lönnrot
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7078#Kanteletar--Suomen-kansan-wanhoja-lauluja-ja-wirsi-
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
